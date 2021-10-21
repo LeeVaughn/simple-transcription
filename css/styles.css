@@ -1,0 +1,10 @@
+/* Base Styles --------------------- */
+* {
+  box-sizing: border-box;
+  font-family: 'Merriweather', serif;
+}
+
+/* Media Queries ------------------- */
+@media (min-width: 768px) {
+
+}
